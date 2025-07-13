@@ -4,7 +4,7 @@ from discord.ui import Button, View, Modal, TextInput
 from web3 import Web3
 
 # === CONFIG ===
-TOKEN = 'MTM5MzYyMTIwNDc2OTk2ODMxMQ.GaUIo5.kmdisOmjXW9BBCKJnUtn6yWDcC0bpj7K-v43mk'  # Replace safely
+TOKEN = ''  # Replace safely
 CHANNEL_ID = 1393869262980124783
 VERIFIED_ROLE_ID = 1368997815291871322
 NFT_CONTRACT = '0x1ea72dcf86c95597360879ed589c175f9a655a30'
